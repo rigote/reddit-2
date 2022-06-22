@@ -7,7 +7,9 @@
     "generate": "yarn plop --plopfile generators/plopfile.js"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.8",
     "@heroicons/react": "^1.0.6",
+    "graphql": "^16.5.0",
     "next": "latest",
     "next-auth": "^4.5.0",
     "react": "^17.0.2",
